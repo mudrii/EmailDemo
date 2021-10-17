@@ -18,7 +18,7 @@
 #
 #       # Replace this URL by your own that has your pubkey in
 #       # oginal file in https://github.com/nix-community/nixos-install-scripts/blob/master/hosters/hetzner-cloud/nixos-install-hetzner-cloud.sh
-#       curl -L https://raw.githubusercontent.com/EmailDemo/nixos-install-scripts/master/hosters/hetzner-cloud/nixos-install-hetzner-cloud.sh | sudo bash
+#       curl -L https://raw.githubusercontent.com/mudrii/EmailDemo/master/nixos-install-hetzner-cloud.sh | sudo bash
 #
 #    This will install NixOS and power off the server.
 # 4. Unmount the ISO image from the Hetzner Cloud GUI.
